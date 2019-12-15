@@ -29,6 +29,3 @@ Demo at https://demo-eazy.surge.sh/
 - http://5b35ede16005b00014c5dc86.mockapi.io/list,
 - http://5b35ede16005b00014c5dc86.mockapi.io/view/<ITEM_ID>,
 - http://5b35ede16005b00014c5dc86.mockapi.io/similar/<ITEM_ID>
-
-## Rough Design
-![](ui-design.jpg)
